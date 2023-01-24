@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: dtb220-schematic.PcbDoc   1/13/2023  12:59:47 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : dtb220-schematic.TXT
+ASCII RectHoles File : dtb220-schematic-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.76mm (30mil)                                            Rectangle         2         PTH        14.18mm (0.56inch)
+T2      1.02mm (40mil)                                            Rectangle         1         PTH        2.54mm (0.10inch)
+T3      1.3mm (51mil)                                             Round             9         PTH        121.28mm (4.77inch)
+T4      4.216mm (166mil)                                          Round             3         PTH        110.11mm (4.34inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              15
+
+Total Processing Time (hh:mm:ss) : 00:00:00

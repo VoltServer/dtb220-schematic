@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [dtb220-schematic.PrjPcb]
+   Generated File[dtb220-schematic.GTO]
+   Generated File[dtb220-schematic.GTP]
+   Generated File[dtb220-schematic.GTS]
+   Generated File[dtb220-schematic.GTL]
+   Generated File[dtb220-schematic.GBL]
+   Generated File[dtb220-schematic.GBS]
+   Generated File[dtb220-schematic.GBP]
+   Generated File[dtb220-schematic.GBO]
+   Generated File[dtb220-schematic.GM1]
+   Generated File[dtb220-schematic.GKO]
+   Generated File[dtb220-schematic.GPT]
+   Generated File[dtb220-schematic.GPB]
+   Generated File[dtb220-schematic.GML]
+   Generated File[dtb220-schematic.1]
+   Generated File[dtb220-schematic.RUL]
+   Generated File[dtb220-schematic.EXTREP]
+   Generated File[dtb220-schematic.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 1:03:56 PM On 1/13/2023

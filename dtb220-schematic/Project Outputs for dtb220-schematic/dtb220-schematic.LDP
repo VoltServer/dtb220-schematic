@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Intern\Documents\GitHub\dtb220-schematic\dtb220-schematic\dtb220-schematic.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=dtb220-schematic.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=dtb220-schematic-rectholes.txt|DrillLayers=gtl,gbl
